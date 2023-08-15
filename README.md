@@ -1,4 +1,4 @@
-<p align="center"><img width="400" alt="Coding" src="https://giphy.com/gifs/3oKGzgNfssFG1xlwC4.gif" /> </p><h1 align="center">Hi 👋, I'm Raymond Medina</h1>
+<p align="center"><img width="400" alt="Coding" src="[https://giphy.com/gifs/3oKGzgNfssFG1xlwC4](https://giphy.com/embed/3oKGzgNfssFG1xlwC4).gif" /> </p><h1 align="center">Hi 👋, I'm Raymond Medina</h1>
 <h3 align="center">| Full Stack Software Engineer | Army Veteran |</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RayyMedina/RayyMedina](https://github.com/RayyMedina/RayyMedina)
